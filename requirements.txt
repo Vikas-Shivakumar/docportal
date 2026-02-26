@@ -13,4 +13,5 @@ structlog
 PyMuPDF
 flask
 streamlit
+pytest
 -e.
