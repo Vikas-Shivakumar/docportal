@@ -18,9 +18,6 @@ logs_dir/
 .vscode/
 .idea/
 
-# OS
-.DS_Store
-Thumbs.db
 
 # Streamlit cache
 .streamlit/
